@@ -1,0 +1,44 @@
+body{
+    background:url("/passenger_counter/train.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    text-align: center;
+    
+}
+
+.wrapper{
+    border: 10px solid white;
+    padding: 80px 40px;
+    background-color:beige;
+    color:black;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+
+#count-el{
+    text-align: center;
+}
+
+#increment-btn{
+   
+    padding: 20px 40px;
+    color: white;
+    background-color: gray;
+    margin-right: 20px;
+}
+#save-btn{
+  
+    padding: 20px 40px;
+    color: white;
+    background-color: gray;
+    margin-left: 20px;
+}
+
+.button-wrapper{
+    display: flex;
+    justify-content: center;
+    
+}
